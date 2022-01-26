@@ -1,2 +1,4 @@
 # tax-liability-W2-1040
-TAX YEAR 2020: Calculating tax liability if you have a W2, Schedule C (Form 1040), and only a student loan interest deduction.
+I was bored during the great quarantine of 2020, and still a Python beginner, so I wanted to refresh myself on setting up a local Python environment on Ubuntu 20. Prior to this, I've never used virtual environments for Python projects, since the class I once took on it was focused more on principles rather than workflow. Being a big user of `npm` and `composer` for my day-to-day job at CFR, I wanted to apply the same sort of management to my Python setup. I went with `venv` but would like to try out Poetry some day. 
+
+In spite of lockdown malaise, I sought to whip up some form of absurdly simple application, and get my memory of Python syntax all jogged. So naturally, I studied the US federal tax code for 2020 and made a simple calculator to estimate what my tax liability would be as a W-2 and Schedule C worker. Obviously *do not use this* to inform your own financial picture. This was just for fun! :smile:
